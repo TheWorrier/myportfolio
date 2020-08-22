@@ -1,0 +1,52 @@
+.rt {
+    height: 180px;
+    width: 170px;
+    background-color: #bbb;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+.con {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: ;
+}
+
+.container.d-flex.justify-content-between {
+    padding: 0px 0px;
+}
+
+.mt {
+    margin-top: 60px;
+}
+
+.body {
+    margin: 0px;
+    padding: 0px;
+    background-color: tomato;
+}
+
+.sendclass {
+    background-color: lightblue;
+    color: white;
+    padding: 0px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-style: normal;
+    height: 35px;
+}
+
+.send {
+    color: white;
+    height: 20px;
+    width: 20px;
+}
+
+.row {
+    display: block;
+    margin: 100px;
+}
